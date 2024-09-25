@@ -1,0 +1,661 @@
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.csprojAssemblyReference.cache
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.AssemblyInfoInputs.cache
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.AssemblyInfo.cs
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.csproj.CoreCompileInputs.cache
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/appsettings.json
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/ConfigurationInfo.exe
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/ConfigurationInfo.deps.json
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/ConfigurationInfo.runtimeconfig.json
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/ConfigurationInfo.runtimeconfig.dev.json
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/ConfigurationInfo.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/ref/ConfigurationInfo.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/ConfigurationInfo.pdb
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Azure.Core.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Azure.Identity.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/staticwebassets/ConfigurationInfo.StaticWebAssets.Manifest.cache
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/staticwebassets/ConfigurationInfo.StaticWebAssets.xml
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/scopedcss/bundle/ConfigurationInfo.styles.css
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.RazorTargetAssemblyInfo.cache
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.csproj.CopyComplete
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ref/ConfigurationInfo.dll
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.pdb
+C:/Users/Asus/source/repos/ConfigurationInfo/ConfigurationInfo/obj/Debug/net5.0/ConfigurationInfo.genruntimeconfig.cache
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.csproj.AssemblyReference.cache
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.AssemblyInfoInputs.cache
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.AssemblyInfo.cs
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.csproj.CoreCompileInputs.cache
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ref/ConfigurationInfo.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.pdb
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/appsettings.Development.json
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/appsettings.json
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/ConfigurationInfo.deps.json
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/ConfigurationInfo.runtimeconfig.json
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/ConfigurationInfo.runtimeconfig.dev.json
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/ConfigurationInfo.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/ref/ConfigurationInfo.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/ConfigurationInfo.pdb
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Azure.Core.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Azure.Identity.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/staticwebassets/ConfigurationInfo.StaticWebAssets.Manifest.cache
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/staticwebassets/ConfigurationInfo.StaticWebAssets.xml
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/scopedcss/bundle/ConfigurationInfo.styles.css
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.RazorTargetAssemblyInfo.cache
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.csproj.CopyComplete
+/Users/ftl/Documents/SURAJ/DotNetCoreAPI/CMMS_API/configurationinfo/obj/Debug/net5.0/ConfigurationInfo.genruntimeconfig.cache
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\appsettings.Development.json
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\appsettings.json
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.exe
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.deps.json
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.json
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.dev.json
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.pdb
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Azure.Core.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Azure.Identity.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Git\ConfigurationInfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csprojAssemblyReference.cache
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfoInputs.cache
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfo.cs
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.CoreCompileInputs.cache
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Manifest.cache
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.xml
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\scopedcss\bundle\ConfigurationInfo.styles.css
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.RazorTargetAssemblyInfo.cache
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.CopyComplete
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.dll
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.pdb
+D:\Git\ConfigurationInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.genruntimeconfig.cache
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\appsettings.Development.json
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\appsettings.json
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.exe
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.deps.json
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.json
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.dev.json
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.pdb
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Azure.Core.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Azure.Identity.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.csprojAssemblyReference.cache
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfoInputs.cache
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfo.cs
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.csproj.CoreCompileInputs.cache
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Manifest.cache
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.xml
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\scopedcss\bundle\ConfigurationInfo.styles.css
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.RazorTargetAssemblyInfo.cache
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.csproj.CopyComplete
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.pdb
+D:\Git\ConfigurationInfo\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.genruntimeconfig.cache
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.csprojAssemblyReference.cache
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfoInputs.cache
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfo.cs
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.csproj.CoreCompileInputs.cache
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.pdb
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\appsettings.Development.json
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\appsettings.json
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.exe
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.deps.json
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.json
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.dev.json
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\ConfigurationInfo.pdb
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Azure.Core.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Azure.Identity.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Manifest.cache
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.xml
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\scopedcss\bundle\ConfigurationInfo.styles.css
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.RazorTargetAssemblyInfo.cache
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.csproj.CopyComplete
+D:\Git\07-12-21\APIFineTunning\configurationinfoworking\obj\Debug\net5.0\ConfigurationInfo.genruntimeconfig.cache
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csprojAssemblyReference.cache
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfoInputs.cache
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfo.cs
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.CoreCompileInputs.cache
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.dll
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.pdb
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\appsettings.Development.json
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\appsettings.json
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.exe
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.deps.json
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.json
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.dev.json
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.pdb
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Azure.Core.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Azure.Identity.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Git\04-01-21\configInfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Manifest.cache
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.xml
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\scopedcss\bundle\ConfigurationInfo.styles.css
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.RazorTargetAssemblyInfo.cache
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.CopyComplete
+D:\Git\04-01-21\configInfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.genruntimeconfig.cache
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\appsettings.Development.json
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\appsettings.json
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.exe
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.deps.json
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.json
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.dev.json
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.pdb
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Azure.Core.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Azure.Identity.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\kishori\git\configinfo\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.AssemblyReference.cache
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfoInputs.cache
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfo.cs
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.CoreCompileInputs.cache
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Manifest.cache
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.xml
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\scopedcss\bundle\ConfigurationInfo.styles.css
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.RazorTargetAssemblyInfo.cache
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.CopyComplete
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.dll
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.pdb
+D:\kishori\git\configinfo\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.genruntimeconfig.cache
+D:\working project\configurationinfo\bin\Debug\net5.0\publish\web.config
+D:\working project\configurationinfo\bin\Debug\net5.0\appsettings.Development.json
+D:\working project\configurationinfo\bin\Debug\net5.0\appsettings.json
+D:\working project\configurationinfo\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\working project\configurationinfo\bin\Debug\net5.0\publish\appsettings.json
+D:\working project\configurationinfo\bin\Debug\net5.0\publish\ConfigurationInfo.deps.json
+D:\working project\configurationinfo\bin\Debug\net5.0\publish\ConfigurationInfo.runtimeconfig.json
+D:\working project\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.exe
+D:\working project\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.deps.json
+D:\working project\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.json
+D:\working project\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.dev.json
+D:\working project\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\ConfigurationInfo.pdb
+D:\working project\configurationinfo\bin\Debug\net5.0\Azure.Core.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Azure.Identity.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\working project\configurationinfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.AssemblyReference.cache
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfoInputs.cache
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfo.cs
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.CoreCompileInputs.cache
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\working project\configurationinfo\obj\Debug\net5.0\scopedcss\bundle\ConfigurationInfo.styles.css
+D:\working project\configurationinfo\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Manifest.cache
+D:\working project\configurationinfo\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Pack.cache
+D:\working project\configurationinfo\obj\Debug\net5.0\staticwebassets\msbuild.ConfigurationInfo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\working project\configurationinfo\obj\Debug\net5.0\staticwebassets\msbuild.build.ConfigurationInfo.props
+D:\working project\configurationinfo\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ConfigurationInfo.props
+D:\working project\configurationinfo\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ConfigurationInfo.props
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.RazorTargetAssemblyInfo.cache
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.csproj.CopyComplete
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.dll
+D:\working project\configurationinfo\obj\Debug\net5.0\refint\ConfigurationInfo.dll
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.pdb
+D:\working project\configurationinfo\obj\Debug\net5.0\ConfigurationInfo.genruntimeconfig.cache
+D:\working project\configurationinfo\obj\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\appsettings.Development.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\appsettings.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\web.config
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\appsettings.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\ConfigurationInfo.deps.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\ConfigurationInfo.runtimeconfig.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.exe
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.deps.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.dev.json
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.pdb
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Azure.Core.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Azure.Identity.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.csproj.AssemblyReference.cache
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfoInputs.cache
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfo.cs
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.csproj.CoreCompileInputs.cache
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\scopedcss\bundle\ConfigurationInfo.styles.css
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Manifest.cache
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Pack.cache
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\msbuild.ConfigurationInfo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\msbuild.build.ConfigurationInfo.props
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ConfigurationInfo.props
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ConfigurationInfo.props
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.RazorTargetAssemblyInfo.cache
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.csproj.CopyComplete
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.dll
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\refint\ConfigurationInfo.dll
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.pdb
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.genruntimeconfig.cache
+D:\microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ref\ConfigurationInfo.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\appsettings.Development.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\appsettings.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\web.config
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\appsettings.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\ConfigurationInfo.deps.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\publish\ConfigurationInfo.runtimeconfig.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.exe
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.deps.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.runtimeconfig.dev.json
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\ConfigurationInfo.pdb
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Azure.Core.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Azure.Identity.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.csproj.AssemblyReference.cache
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfoInputs.cache
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.AssemblyInfo.cs
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.csproj.CoreCompileInputs.cache
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\scopedcss\bundle\ConfigurationInfo.styles.css
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Manifest.cache
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\ConfigurationInfo.StaticWebAssets.Pack.cache
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\msbuild.ConfigurationInfo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\msbuild.build.ConfigurationInfo.props
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ConfigurationInfo.props
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ConfigurationInfo.props
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.RazorTargetAssemblyInfo.cache
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.csproj.CopyComplete
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\refint\ConfigurationInfo.dll
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.pdb
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ConfigurationInfo.genruntimeconfig.cache
+D:\working project\CMMS\Microservices\prj_cmms_configurationinfoservice\obj\Debug\net5.0\ref\ConfigurationInfo.dll
